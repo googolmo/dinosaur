@@ -11,6 +11,13 @@
 # generated files
 bin/
 gen/
+build/
+gen-external-apklibs/
+target/
 
 # Local configuration file (sdk path, etc)
 local.properties
+*.idea/
+*.iml
+
+
