@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
-        <module>dinosaurApi</module>
-        <module>dinosaur</module>
+        <module>library</module>
+        <module>client</module>
     </modules>
 
     <name>dinosaur (Parent)</name>
